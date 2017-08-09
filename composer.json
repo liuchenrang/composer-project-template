@@ -28,9 +28,10 @@
     }
   ],
   "autoload":{
-    "psr-4": {"Jiuyan\\Request\\Tool\\": "src/main"}
+    "psr-4": {"Jiuyan\\Composer\\Template\\": "src/main"}
   },
   "config":{
     "secure-http":false
-  }
+  },
+  "prefer-stable": true
 }
