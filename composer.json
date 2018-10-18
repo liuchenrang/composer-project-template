@@ -28,7 +28,7 @@
     }
   ],
   "autoload":{
-    "psr-4": {"Jiuyan\\Composer\\Template\\": "src/main"}
+    "psr-4": {"Common\\": "src/main"}
   },
   "config":{
     "secure-http":false
